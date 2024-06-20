@@ -7,6 +7,9 @@
 </head>
 <body>
     <livewire:hello-whirled/>
+    <livewire:counter/>
+    <livewire:todos/>
+
     
 </body>
 </html>
